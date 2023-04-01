@@ -13,8 +13,8 @@
 }
 .content{
 display:flex;
-justify-content:space-around;
-align-items:start;
+justify-content:center;
+align-items:center;
 }
  .latest-news-section, .content-1a{
 	background-color:white;
