@@ -63,6 +63,7 @@ align-items:center;
  .latest-news-section, .content-1a{
     background-color: white;
     margin: 6px;
+	text-align:center;
     width: 450px;
     padding: 15px;
     display: flex;
@@ -76,13 +77,14 @@ flex-direction:column;
 justify-content:center;
 align-items:center;
 background-color:white;
-	margin:6px;
-	padding:15px;
-	border-radius:15px;
-    width: 250px    ;
+margin:6px;
+padding:5px;
+padding-bottom:15px;
+border-radius:15px;
+width: 250px    ;
 }
 .pictorial-news-section img{
-	width:110px;
-	height:50px;
+	width:150px;
+	height:80px;
 	margin:5px;	
 }
