@@ -15,7 +15,7 @@
 display:flex;
 justify-content:space-around;
 }
- .content-1a{
+ .pictorial-news-section, .latest-news-section, .content-1a{
 	background-color:white;
 	margin:15px;
 	padding:5px;
