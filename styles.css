@@ -23,13 +23,15 @@ align-items:start;
 	border-radius:15px;
 }
 .pictorial-news-section{
-display:flex;
+/* display:flex;
 flex-direction:column;
 justify-content:center;
-align-items:center;
+align-items:center; */
 }
 .pictorial-news-section img{
 	width:110px;
 	height:50px;
 	margin:5px;
+	display:flex;
+	
 }
