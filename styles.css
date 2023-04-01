@@ -27,7 +27,9 @@ flex-direction:column;
 justify-content:center;
 align-items:center;
 }
-.content-1b img{
+.pictorial-news-section .content-1b img{
 	width:200px;
 	margin:5px;
+	display:flex;
+	justify-content:center;
 }
